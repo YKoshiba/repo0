@@ -1,1 +1,1 @@
-this is my first awesome repositery
+this is my first awesome repository
